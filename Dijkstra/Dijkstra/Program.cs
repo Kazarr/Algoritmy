@@ -45,6 +45,7 @@ namespace Dijkstra
             DijsktraAlgorythm();
             WriteDijsktra();
             Console.ReadKey();
+
         }
 
         private static void DijsktraAlgorythm()
